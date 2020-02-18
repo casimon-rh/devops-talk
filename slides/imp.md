@@ -1,1 +1,5 @@
-### 4 Implementación
+### ❹ Implementación
+
+> Seguir los planes
+
+📍 Nueva Cultura

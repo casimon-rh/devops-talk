@@ -8,7 +8,8 @@
   "scripts": {
     "test": "grunt test",
     "start": "grunt serve",
-    "build": "grunt"
+    "build": "grunt",
+    "sonar": "node sonar-project.js"
   },
   "author": {
     "name": "Carlos Simón",
@@ -38,7 +39,8 @@
     "mustache": "^2.3.0",
     "node-sass": "^4.13.1",
     "prettier": "^1.19.1",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.2.0",
+    "sonarqube-scanner": "^2.5.0"
   },
   "license": "MIT",
   "dependencies": {
